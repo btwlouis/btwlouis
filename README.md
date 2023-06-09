@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/btwlouis](https://github.com/btwlouis)
 
-- 📫 How to reach me **info@onlouis.de**
+- 📫 How to reach me **contact@onlouis.de**
 
 - ⚡ Fun fact **Programmers run on coffee, but sometimes the coffee runs on bugs.**
 
