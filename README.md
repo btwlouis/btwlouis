@@ -11,10 +11,9 @@
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java" alt="Java">
-<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt="PHP">
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" alt="Java">
 <img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js" alt="Vue.js">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="Vue.js">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
 </p>
