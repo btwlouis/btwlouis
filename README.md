@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" alt="Java">
 <img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js" alt="Vue.js">
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="Vue.js">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
 </p>
