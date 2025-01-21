@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Louis</h1>
 <h4 align="left">A passionate fullstack developer from Germany</h4>
 
----
-
 ## 🔧 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
@@ -13,8 +11,6 @@
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
 </p>
 
----
-
 ## 🖥️ Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt="Laravel">
@@ -24,14 +20,10 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React.js">
 </p>
 
----
-
 ## 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb" alt="MariaDB">
 </p>
-
----
 
 ## 🛠️ Tools
 <p align="left">
